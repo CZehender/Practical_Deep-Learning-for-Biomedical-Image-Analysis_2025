@@ -1,0 +1,16 @@
+{
+    "channel_names": {
+        "0": "R",
+        "1": "G",
+        "2": "B"
+    },
+    "labels": {
+        "background": 0,
+        "lesion": 1
+    },
+    "numTraining": 1421,
+    "file_ending": ".png",
+    "licence": "Whoever converted this dataset was lazy and didn't look it up!",
+    "converted_by": "Please enter your name, especially when sharing datasets with others in a common infrastructure!",
+    "name": "Dataset001_RetinalLesions"
+}
